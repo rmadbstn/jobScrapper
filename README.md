@@ -1,2 +1,2 @@
 # jobScrapper(WEB SERVER WITH ECHO)
-Golang study project 
+jobScrapper(WEB SERVER WITH ECHO)   // Golang study project 
