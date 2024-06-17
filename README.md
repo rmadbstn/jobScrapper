@@ -1,0 +1,2 @@
+# jobScrapper
+Golang study project 
